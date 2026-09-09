@@ -1,11 +1,8 @@
 # Hi, I'm Tanvir 👋
 
-Software Engineering student at Macquarie University focused on backend systems, distributed computing, cloud infrastructure, and full-stack development.
+Software Engineering student at Macquarie University (B.InfoTech, Software Technology — expected Dec 2026, WAM 75+), focused on backend systems, distributed computing, cloud infrastructure, and full-stack development.
 
-- 🎓 B.InfoTech (Software Technology), Macquarie University — Expected Dec 2026 (📊WAM: 75+)
-- 💻 Interested in Backend Systems, Distributed Computing, Cloud Infrastructure & Full-Stack Development
-- 📫 Reach me at [tanvirsingh364@gmail.com](mailto:tanvirsingh364@gmail.com)
-- 📄 [View My Resume](https://github.com/TanvirS-07/resume/blob/main/Resume.pdf)
+📄 [Resume](https://github.com/TanvirS-07/resume/blob/main/Resume.pdf) · 📫 [tanvirsingh364@gmail.com](mailto:tanvirsingh364@gmail.com)
 
 ---
 
@@ -22,17 +19,6 @@ Cross-platform (Android + web) marketplace app built with Flutter and Firebase �
 
 **[Virtual Museum — Unity Exhibit](https://github.com/TanvirS-07/Virtual-Museum)**
 Interactive first-person Unity exhibit exploring video game history, built for a real external client (Macquarie University Library Exhibition) as part of a 5-person Agile team.
-
----
-
-## ⚡ Engineering Highlights
-
-- ☁️ Built and deployed cloud infrastructure using AWS, Docker and Terraform
-- 🔧 Implemented automated CI/CD pipelines with GitHub Actions
-- 🌐 Developed backend systems using Java REST APIs
-- 🧠 Built distributed scheduling algorithms using Python and TCP sockets
-- 📱 Developed a full-stack mobile application using Flutter and Firebase
-- 🎮 Delivered a production Unity project for a real external client
 
 ---
 
