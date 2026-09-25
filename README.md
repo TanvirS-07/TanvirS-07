@@ -20,7 +20,7 @@ Client-server job scheduler for a simulated distributed environment, cutting ave
 **[DormDeals — Mobile Campus Marketplace App](https://github.com/TanvirS-07/DormDeals)**
 Cross-platform (Android + web) marketplace app built with Flutter and Firebase; authentication, real-time listings, and Google Maps built in location features.
 
-**[Virtual Museum — Unity Exhibit](https://github.com/TanvirS-07/Virtual-Museum)**
+**[Virtual Museum — Industry Placement](https://github.com/TanvirS-07/Virtual-Museum)**
 Interactive first-person Unity exhibit exploring video game history, built for a real external client (Macquarie University Library Exhibition) as part of a 5-person Agile team.
 
 ---
