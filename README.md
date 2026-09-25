@@ -8,14 +8,17 @@ Software Engineering student at Macquarie University (B.InfoTech, Software Techn
 
 ## 🚀 Featured Projects
 
+**[WIP - Cricket Academy Management Platform](https://github.com/TanvirS-07/sports-academy-platform)**
+Full-stack management platform built around real-world processes from a cricket coaching academy, using React, FastAPI, PostgreSQL, Docker, and GitHub Actions.
+
 **[QuestShaper Multiplayer Game Server](https://github.com/TanvirS-07/QuestShaper-Multiplayer-Game-Server)**
 Java HTTP game server with a 7-endpoint REST API for real-time multiplayer state. Fully containerised with Docker, deployed to AWS EC2 via Terraform, with CI/CD through GitHub Actions.
 
 **[Distributed Systems Job Scheduler](https://github.com/TanvirS-07/Distributed-Systems-Job-Scheduler)**
 Client-server job scheduler for a simulated distributed environment, cutting average turnaround time by 99%+ versus baseline scheduling algorithms.
 
-**[DormDeals — Campus Marketplace App](https://github.com/TanvirS-07/DormDeals)**
-Cross-platform (Android + web) marketplace app built with Flutter and Firebase — authentication, real-time listings, and Google Maps built in location features.
+**[DormDeals — Mobile Campus Marketplace App](https://github.com/TanvirS-07/DormDeals)**
+Cross-platform (Android + web) marketplace app built with Flutter and Firebase; authentication, real-time listings, and Google Maps built in location features.
 
 **[Virtual Museum — Unity Exhibit](https://github.com/TanvirS-07/Virtual-Museum)**
 Interactive first-person Unity exhibit exploring video game history, built for a real external client (Macquarie University Library Exhibition) as part of a 5-person Agile team.
