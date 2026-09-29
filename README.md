@@ -2,6 +2,8 @@
 
 Software Engineering student at Macquarie University (B.InfoTech, Software Technology — expected Dec 2026, WAM 75+), focused on backend systems, distributed computing, cloud infrastructure, and full-stack development.
 
+If I'm not on GitHub, I'm probably doing LeetCode problems. 😁
+
 📄 [Resume](https://github.com/TanvirS-07/resume/blob/main/Resume.pdf) · 📫 [tanvirsingh364@gmail.com](mailto:tanvirsingh364@gmail.com)
 
 ---
