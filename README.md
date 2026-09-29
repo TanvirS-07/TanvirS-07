@@ -1,20 +1,21 @@
 # Hi, I'm Tanvir 👋
 
-Software Engineering student at Macquarie University (B.InfoTech, Software Technology — expected Dec 2026, WAM 75+), focused on backend systems, distributed computing, cloud infrastructure, and full-stack development.
+Software Engineering student at Macquarie University (B.InfoTech, Software Technology — expected Dec 2026, WAM 75+), focused on backend and frontend systems, distributed computing, cloud infrastructure, and full-stack development.
 
 If I'm not on GitHub, I'm probably doing LeetCode problems. 😁
 
-📄 [Resume](https://github.com/TanvirS-07/resume/blob/main/Resume.pdf) · 📫 [tanvirsingh364@gmail.com](mailto:tanvirsingh364@gmail.com)
+📄 [Resume](https://github.com/TanvirS-07/resume/blob/main/Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/tanvir-singh07/) · 📫 [tanvirsingh364@gmail.com](mailto:tanvirsingh364@gmail.com)
 
 ---
 
 ## 🚀 Featured Projects
 
-**[WIP - Cricket Academy Management Platform](https://github.com/TanvirS-07/sports-academy-platform)**
+**[Sports Academy Platform](https://github.com/TanvirS-07/sports-academy-platform)**
 Full-stack management platform built around real-world processes from a cricket coaching academy, using React, FastAPI, PostgreSQL, Docker, and GitHub Actions.
+Replacing the spreadsheets that were set up for the 30+ players at the academy.
 
 **[QuestShaper Multiplayer Game Server](https://github.com/TanvirS-07/QuestShaper-Multiplayer-Game-Server)**
-Java HTTP game server with a 7-endpoint REST API for real-time multiplayer state. Fully containerised with Docker, deployed to AWS EC2 via Terraform, with CI/CD through GitHub Actions.
+Java HTTP game server with a 7-endpoint REST API for real-time multiplayer state. Led backend development of a Java REST API for a three-person team. I built the whole deployment pipeline on my own: containerised with Docker, provisioned on AWS EC2 with Terraform, and deployed on every push through GitHub Actions.
 
 **[Distributed Systems Job Scheduler](https://github.com/TanvirS-07/Distributed-Systems-Job-Scheduler)**
 Client-server job scheduler for a simulated distributed environment, cutting average turnaround time by 99%+ versus baseline scheduling algorithms.
@@ -29,9 +30,12 @@ Interactive first-person Unity exhibit exploring video game history, built for a
 
 ## 🛠️ What I Work With
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Frameworks & Cloud:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+**Backend & Frontend:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+When I'm not building something, I'm doing LeetCode. 😁
