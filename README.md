@@ -12,7 +12,7 @@ Software Engineering student at Macquarie University (B.InfoTech, Software Techn
 Full-stack management platform built around real-world processes from a cricket coaching academy, using React, FastAPI, PostgreSQL, Docker, and GitHub Actions.
 Replacing the spreadsheets that were set up for the 30+ players at the academy, saving 3-5 hours of admin per week.
 
-<img src="https://raw.githubusercontent.com/BaoAL31/climate-tion-heatmap/main/frontend/favicon.svg" width="20" align="top" alt="CoolBlocks logo"> **[CoolBlocks — Urban Heat Planner](https://github.com/BaoAL31/climate-tion-heatmap)** · [Live site](https://coolblocks.cool) · [Demo video](https://github.com/BaoAL31/climate-tion-heatmap/blob/main/docs/coolblocks-demo.mp4)
+<img src="https://raw.githubusercontent.com/BaoAL31/climate-tion-heatmap/main/frontend/favicon.svg" width="20" align="top" alt="CoolBlocks logo"> **[CoolBlocks — Urban Heat Planner](https://github.com/BaoAL31/climate-tion-heatmap)** · [Live site](https://coolblocks.cool) · [Demo video](https://github.com/user-attachments/assets/0e6cd2a0-587b-4e07-84b8-1ed81689efab)
 Built in a team over a weekend at the Climate Hack-tion 2026 hackathon (theme: "Build for 2035", COP31 Resilient Cities & Buildings).
 Interactive 3D map of the University of Sydney where you plant trees, change surfaces or reshape buildings and see how the "feels like" temperature changes. It runs the SOLWEIG heat model on real NSW tree canopy, OpenStreetMap and Open-Meteo weather data, with a FastAPI backend and a MapLibre frontend. Ten street trees can make a block feel about 5.5 °C cooler, so imagine the possibilities.
 I built frontend UI features and deployed the app myself on coolblocks.cool, served from my own GPU machine through a Cloudflare Tunnel.
