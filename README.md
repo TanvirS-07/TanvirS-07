@@ -42,3 +42,5 @@ Interactive first-person Unity exhibit exploring video game history, built for a
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 When I'm not building something, I'm doing LeetCode. 😁
+
+[![Tanvir's GitHub stats](https://github-stats-extended.vercel.app/api?username=TanvirS-07)](https://github.com/stats-organization/github-stats-extended)
