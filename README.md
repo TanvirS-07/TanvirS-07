@@ -43,4 +43,4 @@ Interactive first-person Unity exhibit exploring video game history, built for a
 
 When I'm not building something, I'm doing LeetCode. 😁
 
-[![Tanvir's GitHub stats](https://github-stats-extended.vercel.app/api?username=TanvirS-07)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TanvirS-07&rank_icon=github&custom_title=Tanvir%27s%20Stats&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=TanvirS-07&rank_icon=github&custom_title=Tanvir%27s%20Stats&show_icons=true&include_all_commits=true&theme=light_github)
