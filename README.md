@@ -17,6 +17,10 @@ Built in a team over a weekend at the Climate Hack-tion 2026 hackathon (theme: "
 Interactive 3D map of the University of Sydney where you plant trees, change surfaces or reshape buildings and see how the "feels like" temperature changes. It runs the SOLWEIG heat model on real NSW tree canopy, OpenStreetMap and Open-Meteo weather data, with a FastAPI backend and a MapLibre frontend. Ten street trees can make a block feel about 5.5 °C cooler, so imagine the possibilities.
 I built frontend UI features and deployed the app myself on coolblocks.cool, served from my own GPU machine through a Cloudflare Tunnel.
 
+<img src="https://raw.githubusercontent.com/TanvirS-07/self-steer/main/docs/logo.svg" width="20" align="top" alt="Self Steer logo"> **[Self Steer — Self-Driving Racing AI](https://github.com/TanvirS-07/self-steer)** · [Live site](https://tanvirsingh.me/self-steer/)
+Top-down racing game where cars teach themselves to drive: a small neural network evolved by a genetic algorithm, written in plain JavaScript with no libraries, including the network.
+The trained AI laps faster than a hand-written driver on the circuit it trained on and on three of five circuits it has never seen. Training, validation and test tracks are kept separate, and the README reports where it still fails.
+
 **[QuestShaper Multiplayer Game Server](https://github.com/TanvirS-07/QuestShaper-Multiplayer-Game-Server)**
 Java HTTP game server with a 7-endpoint REST API for real-time multiplayer state. Led backend development of a Java REST API for a three-person team. I built the whole deployment pipeline on my own: containerised with Docker, provisioned on AWS EC2 with Terraform, and deployed on every push through GitHub Actions.
 
